@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowgartsAPI", "HowgartsAPI\HowgartsAPI.csproj", "{EF9206A9-1858-4E43-B5CF-C8E9BD317082}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF9206A9-1858-4E43-B5CF-C8E9BD317082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF9206A9-1858-4E43-B5CF-C8E9BD317082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF9206A9-1858-4E43-B5CF-C8E9BD317082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF9206A9-1858-4E43-B5CF-C8E9BD317082}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E31FBD4A-8D9B-4C0D-B5B0-F4BD09FE4964}
+	EndGlobalSection
+EndGlobal
